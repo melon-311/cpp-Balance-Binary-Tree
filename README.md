@@ -12,7 +12,7 @@
 ### 编译与运行
 ```bash
 g++ main.cpp -o avl
-./avl
+avl.exe
 ```
 
 ### 使用说明
